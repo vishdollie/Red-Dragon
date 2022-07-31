@@ -12,6 +12,18 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
+      ᐯ丨丂卄ㄩᗪㄖㄥㄥ丨乇 山卄卂ㄒ丂卂卩卩 乃ㄖㄒ
+
+
+
+𝐎𝐰𝐧𝐞𝐫 :- 🇻‌🇮‌🇸‌🇭‌
+
+𝐂𝐨𝐧𝐭𝐚𝐜𝐭 :- https://wa.me/<+94711920394>
+
+
+
+ŤĤÃŇЌŜ ƑỖŘ ǗŜĮŇĞ ŤĤẸ βỖŤ♥️✨
+
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,32 +41,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
+global.vcardowner = ['+94711920394'] //ur owner number
+global.ownername = "🇻‌🇮‌🇸‌🇭‌" //ur owner name
 global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: vishudollie" //ur github or insta name
+global.location = "Sri Lanka,Colombo" //ur location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `IMG-20220108-WA0018.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['++94711920394']
+global.ownertag = '+94 71 192 0394' //ur tag number
+global.botname = '𝚅𝙸𝚂𝙷𝚄𝙳𝙾𝙻𝙻𝙸𝙴 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃' //ur bot name
+global.packname = "Bot Sticker (𝚟𝚒𝚜𝚑)" // sticker packname
+global.author = "ᐯIᔕᕼᑌᗪᗝᒪᒪIᗴ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.footer = '[ ѴЇ$HЦДѲГГЄ 𝖂𝕳 - 𝕭𝕺𝕿 ᨶꪮꪑꪑꪖ᭢ᦔ ꪶỉకᡶ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.btnurl = 'https://github.com/vishdollie' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94711920394'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
